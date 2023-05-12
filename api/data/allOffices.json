@@ -1,0 +1,144 @@
+{
+  "offices": [
+    {
+      "name": "Office 1",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Jaipur",
+      "_id": "645ab017d2bbc878828875da"
+    },
+    {
+      "name": "Office 2",
+      "capacity": 5,
+      "isAvailable": true,
+      "location": "Delhi",
+      "_id": "645ab017d2bbc878828875db"
+    },
+    {
+      "name": "Office 3",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Banglore",
+      "_id": "645ab017d2bbc878828875dc"
+    },
+    {
+      "name": "Office 4",
+      "capacity": 3,
+      "isAvailable": true,
+      "location": "Jaipur",
+      "_id": "645ab017d2bbc878828875dd"
+    },
+    {
+      "name": "Office 5",
+      "capacity": 6,
+      "isAvailable": true,
+      "location": "Udaipur",
+      "_id": "645ab017d2bbc878828875de"
+    },
+    {
+      "name": "Office 6",
+      "capacity": 7,
+      "isAvailable": true,
+      "location": "Udaipur",
+      "_id": "645ab017d2bbc878828875df"
+    },
+    {
+      "name": "Office 7",
+      "capacity": 7,
+      "isAvailable": true,
+      "location": "Chennai",
+      "_id": "645ab017d2bbc878828875e0"
+    },
+    {
+      "name": "Office 8",
+      "capacity": 3,
+      "isAvailable": true,
+      "location": "Udaipur",
+      "_id": "645ab017d2bbc878828875e1"
+    },
+    {
+      "name": "Office 9",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Delhi",
+      "_id": "645ab017d2bbc878828875e2"
+    },
+    {
+      "name": "Office 10",
+      "capacity": 5,
+      "isAvailable": true,
+      "location": "Delhi",
+      "_id": "645ab017d2bbc878828875e3"
+    },
+    {
+      "name": "Office 11",
+      "capacity": 4,
+      "isAvailable": true,
+      "location": "Chennai",
+      "_id": "645ab017d2bbc878828875e4"
+    },
+    {
+      "name": "Office 12",
+      "capacity": 6,
+      "isAvailable": true,
+      "location": "Udaipur",
+      "_id": "645ab017d2bbc878828875e5"
+    },
+    {
+      "name": "Office 13",
+      "capacity": 7,
+      "isAvailable": true,
+      "location": "Banglore",
+      "_id": "645ab017d2bbc878828875e6"
+    },
+    {
+      "name": "Office 14",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Udaipur",
+      "_id": "645ab017d2bbc878828875e7"
+    },
+    {
+      "name": "Office 15",
+      "capacity": 7,
+      "isAvailable": true,
+      "location": "Jaipur",
+      "_id": "645ab017d2bbc878828875e8"
+    },
+    {
+      "name": "Office 16",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Chennai",
+      "_id": "645ab017d2bbc878828875e9"
+    },
+    {
+      "name": "Office 17",
+      "capacity": 4,
+      "isAvailable": true,
+      "location": "Chennai",
+      "_id": "645ab017d2bbc878828875ea"
+    },
+    {
+      "name": "Office 18",
+      "capacity": 2,
+      "isAvailable": true,
+      "location": "Chennai",
+      "_id": "645ab017d2bbc878828875eb"
+    },
+    {
+      "name": "Office 19",
+      "capacity": 6,
+      "isAvailable": true,
+      "location": "Udaipur",
+      "_id": "645ab017d2bbc878828875ec"
+    },
+    {
+      "name": "Office 20",
+      "capacity": 6,
+      "isAvailable": true,
+      "location": "Banglore",
+      "_id": "645ab017d2bbc878828875ed"
+    }
+  ]
+}
